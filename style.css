@@ -1,3 +1,4 @@
+@media only screen and (max-width: 600px) {
 *{
     margin: 0;
     padding: 0;
@@ -9,6 +10,7 @@
     background: radial-gradient(#768aff, #0f228a);
     color: #fff;
     position: relative;
+}
 }
 .logo {
     margin-left: 7%;
