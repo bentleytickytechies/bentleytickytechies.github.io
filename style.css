@@ -143,3 +143,34 @@ nav .start-contact, a:nth-child(5):hover~.animation{
     width: 7.8125vw;
     left: 30.598958333333332vw;
 }
+.container-1 p{
+    max-width: 42.317708333333336vw;
+    float: right;
+    /* position: absolute; */
+    font-size: 1.4322916666666667vw;
+    word-spacing: 0.6510416666666666vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15% 10% 10% 0;
+}
+.factory {
+    /* top: 30%; */
+    /* position: absolute; */
+    /* left: 40%; */
+    max-width: 100%;
+    float: left;
+    margin: 15% 0 10% 10%; 
+}
+#history {
+    /* position: absolute; */
+    font-size: 3.90625vw;
+    text-decoration: underline;
+    margin: 0 0 15% 10%;
+}
+.container-1 {
+    width: 100%;
+    min-height:100vh;
+    background: radial-gradient(#768aff, #0f228a);
+    color: #fff;
+    position: relative;
+}
+
